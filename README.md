@@ -23,3 +23,5 @@ I have been told we will not be running code in the Oracle VM VirtualBox, so I w
 > Save your authentication token somewhere on your computer.
 > You should now be able to access/clone github repositories from your environment.
 
+I apolgize if this was not fully completed or described very well as I have not done this before. I will try to make it better next time.
+
